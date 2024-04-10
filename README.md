@@ -1,7 +1,3 @@
-<div align="center">
-<img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner8.gif" alt="cover" />
-</div>
-
 <h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <div size='20px'> Hi! My name is Pragyan Satapathy. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
@@ -21,11 +17,9 @@
 
 - Frontend: Javascript, React, Vue, Html, CSS
 
-- Backend: NodeJs, MongoDB, Express
+- Backend: NodeJs, MongoDB, Express, Python
 
 - Cloud: AWS
-
-- Competitive Coding: Python
 
 
 <h2> Connect with me</h2>
