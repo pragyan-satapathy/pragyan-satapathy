@@ -7,7 +7,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I'm Pragyan Satapathy, a fullstack develover(MERN) having 3 years of experience.
+- 🔭 I'm Pragyan Satapathy, a fullstack develover(MERN) having 5 years of experience.
 
 - 🌱 I’m currently learning cloud architecture and optimization techniques to further refine my skills in full-stack development.
 
