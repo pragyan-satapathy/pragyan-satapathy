@@ -1,34 +1,39 @@
-<h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<div size='20px'> Hi! My name is Pragyan Satapathy. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pragyan Satapathy - GitHub Profile</title>
+</head>
+<body>
 
-<h2> About Me</h2>
+  <p>Hi! I'm Pragyan Satapathy. Thanks for visiting my GitHub profile!</p>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
+  <h2>About Me</h2>
+  <p>I'm an AI &amp; Full Stack Engineer with 6 years of experience building AI-powered solutions and scalable web applications.</p>
+  <ul>
+    <li>Currently working on GenAI, RAG pipelines, LLM integrations and autonomous AI agents.</li>
+    <li>Experienced in building AI-powered applications using Python, LangChain, LangGraph, MCP and OpenAI APIs.</li>
+    <li>Strong background in full-stack development using React, Node.js and Python.</li>
+    <li>Experienced in building and deploying cloud-based applications on AWS.</li>
+    <li>Always exploring new technologies and building things that solve real problems.</li>
+  </ul>
 
+  <h2>Technologies</h2>
+  <ul>
+    <li><strong>AI/GenAI:</strong> LLMs, RAG, AI Agents, LangChain, LangGraph, MCP, OpenAI APIs</li>
+    <li><strong>Vector Databases:</strong> Pinecone</li>
+    <li><strong>Backend:</strong> Python, FastAPI, Node.js, Express.js</li>
+    <li><strong>Frontend:</strong> JavaScript, React.js, Vue.js, HTML, CSS</li>
+    <li><strong>Cloud:</strong> AWS (Lambda, API Gateway, S3, DynamoDB)</li>
+    <li><strong>Database:</strong> MongoDB</li>
+  </ul>
 
-- 🔭 I'm Pragyan Satapathy, a fullstack develover(MERN) having 5 years of experience.
-
-- 🌱 I’m currently learning cloud architecture and optimization techniques to further refine my skills in full-stack development.
-
-- 👯 I’m looking to collaborate on  innovative projects that push the boundaries of technology.
-
-<h2> Technologies</h2>
-
-- Frontend: Javascript, React, Vue, Html, CSS
-
-- Backend: NodeJs, MongoDB, Express, Python
-
-- Cloud: AWS
-
-
-<h2> Connect with me</h2>
-<a href="https://www.linkedin.com/in/dev-pragyan">
-  <img align="left" alt="Pragyan - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
-</a>
-<a href="mailto:pragyans248@gmail.com">
-  <img align="left" alt="Pragyan - Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>
-</a>
-<a href="https://github.com/pragyan-satapathy">
-  <img align="left" alt="Pragyan - GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"/>
-</a>
+  <h2>Connect with me</h2>
+  <p>
+    <a href="https://www.linkedin.com/in/dev-pragyan">LinkedIn</a> |
+    <a href="mailto:pragyans248@gmail.com">Email</a> |
+    <a href="https://github.com/pragyan-satapathy">GitHub</a>
+  </p>
+</body>
+</html>
